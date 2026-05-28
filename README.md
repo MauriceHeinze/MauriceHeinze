@@ -2,6 +2,8 @@
 
 📍 **Heilbronn** | 🤖 **Product Engineer**
 
+I build toold to solve my problems and share them with the world.
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -21,6 +23,8 @@
 - **Design** - great code needs great UX to matter
 
 ## Connect
+
+Feel free to reach out! (Feedback, collaboration, whatever!)
 
 [![LinkedIn](https://img.shields.io/badge/-Maurice_Heinze-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriceheinze)
 
