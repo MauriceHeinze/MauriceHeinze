@@ -24,8 +24,6 @@ I build toold to solve my problems and share them with the world.
 
 ## Connect
 
-Feel free to reach out! (Feedback, collaboration, whatever!)
-
-[![LinkedIn](https://img.shields.io/badge/-Maurice_Heinze-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriceheinze)
+Feel free to reach out on [Linkedin](https://www.linkedin.com/in/mauriceheinze)! (Feedback, collaboration, whatever!)
 
 ---
