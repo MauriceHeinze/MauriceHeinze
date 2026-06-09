@@ -15,6 +15,7 @@ I build tools to solve my problems and share them with the world.
 ## Current Projects
 - 🚀 **[Pretty Scrum](https://app.prettyscrum.org/)** - personalized exam prep for PSM I (Scrum Master certification)
 - 💪 **Hybrid Coach MCP Server** - MCP Server that connects Apple Health, Strava, Yazio and Lyfta to your LLM to advise you with the full picture in mind.
+- 🚀 **[Open Prep](https://github.com/MauriceHeinze/open-prep)** - free prep tool for writing part of TOEFL® test (uses Codex as evaluator, Mac only)
 
 ## What I'm Interested in
 
