@@ -17,6 +17,7 @@ I build tools to solve my problems and share them with the world.
 - 💪 **Hybrid Coach MCP Server** - MCP Server that connects Apple Health, Strava, Yazio and Lyfta to your LLM to advise you with the full picture in mind.
 - 📚 **[Open Prep](https://github.com/MauriceHeinze/open-prep)** - free prep tool for writing part of TOEFL® test (uses Codex as evaluator, Mac only).
 - 🔌 **[Switchboard AI SDK](https://github.com/MauriceHeinze/switchboard-ai-sdk)** - use the user's AI tools like Codex instead of paying for AI APIs.
+- 🎙️ CMDK-AI - help users navigate your UI more easily with Voice (under development)
 
 ## What I'm Interested in
 
